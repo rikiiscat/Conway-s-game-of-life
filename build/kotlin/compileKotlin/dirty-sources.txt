@@ -1,0 +1,5 @@
+/Users/xuelinliu/Desktop/waterloouniversity/cs349/Assignments/A2/my_coding/src/main/kotlin/main.kt
+/Users/xuelinliu/Desktop/waterloouniversity/cs349/Assignments/A2/my_coding/src/main/kotlin/ToolbarView.kt
+/Users/xuelinliu/Desktop/waterloouniversity/cs349/Assignments/A2/my_coding/src/main/kotlin/Model.kt
+/Users/xuelinliu/Desktop/waterloouniversity/cs349/Assignments/A2/my_coding/src/main/kotlin/IView.kt
+/Users/xuelinliu/Desktop/waterloouniversity/cs349/Assignments/A2/my_coding/src/main/kotlin/StatusView.kt
